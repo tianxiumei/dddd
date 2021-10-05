@@ -1,0 +1,7 @@
+{
+    "presets": [
+      ["@babel/transform-runtime", {
+        "corejs": 2
+      }]
+    ]
+  }
